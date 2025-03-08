@@ -13,9 +13,9 @@ public class Main {
 
         // Show what was entered
         System.out.println("\nYou entered:\n" + userArticle);
-        System.out.println("\nProcessing your text...");
 
-        // Here you would add your text processing code
+
+
     }
 }
 
